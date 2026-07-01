@@ -42,7 +42,7 @@ const experiences = [
     chips: ['Oraduino 2025', 'Oranovia 2025', 'Huawei ICT Promotion 2024'],
   },
   {
-    title: 'Freelance Technical Project Manager',
+    title: 'Freelance Technical Project Specialist',
     period: 'Ongoing',
     tag: 'Freelance',
     color: 'from-amber-500 to-orange-400',

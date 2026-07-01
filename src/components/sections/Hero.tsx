@@ -10,7 +10,7 @@ const stats = [
 
 const roles: { label: string; Icon: LucideIcon; pill: string; icon: string; glow: string }[] = [
   {
-    label: 'Technical Project Manager',
+    label: 'Technical Project Specialist',
     Icon: Briefcase,
     pill: 'border-violet-500/35 bg-violet-500/10 text-violet-300',
     icon: 'text-violet-400 bg-violet-500/20',
